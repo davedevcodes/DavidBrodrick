@@ -7,7 +7,7 @@ export default function Home() {
     <section className="relative min-h-screen overflow-hidden bg-black">
       {/* Gradient */}
       <div className="absolute rounded-b-3xl inset-0 bg-gradient-to-br from-orange-600 via-orange-500 to-red-600" />
-      <div className="absolute rounded-t-3xl bg-gradient-to-br from-black/5 to-black/50 min-w-screen min-h-screen h-full w-full bottom-0"></div>
+      <div className="absolute rounded-t-3xl bg-gradient-to-br from-black/5 to-black/50 min-w-screen min-h-screen h-full w-full top-0 left-0 right-0 bottom-0"></div>
       <div className="relative z-10 max-w-7xl mx-auto px-6 pt-8">
         {/* NAV */}
         <Navbar />
