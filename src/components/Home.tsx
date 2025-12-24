@@ -64,7 +64,7 @@ export default function Home() {
             <img
               src={Profile}
               className="w-full lg:max-w-xl mx-auto lg:rounded-none rounded-full"
-              alt="Portrait of David Brodrick"
+              alt="David Brodrick Front-End Developer & Block-Chain Enthusiast"
             />
           </motion.div>
         </div>
